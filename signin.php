@@ -89,7 +89,7 @@
         }
     </style>
 
-        <title>Sign-in</title>
+        <title>Streamnet</title>
     </head>
     <body>
         <div class="top-menu">

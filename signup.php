@@ -102,7 +102,7 @@
         }
     </style>
 
-    <title>Sign-up</title>
+    <title>Streamnet</title>
 </head>
 
 <body>
